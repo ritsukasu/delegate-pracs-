@@ -1,0 +1,14 @@
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\bin\Debug\net10.0\Delegate Practice.exe
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\bin\Debug\net10.0\Delegate Practice.deps.json
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\bin\Debug\net10.0\Delegate Practice.runtimeconfig.json
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\bin\Debug\net10.0\Delegate Practice.dll
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\bin\Debug\net10.0\Delegate Practice.pdb
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.AssemblyInfo.cs
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.dll
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\refint\Delegate Practice.dll
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.pdb
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\Delegate Practice.genruntimeconfig.cache
+C:\Users\ASUS ROG\source\repos\Delegate Practice\Delegate Practice\obj\Debug\net10.0\ref\Delegate Practice.dll
