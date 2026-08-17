@@ -1,0 +1,16 @@
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.AssemblyInfo.cs
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate_String.GenericDelegates.resources
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\bin\Debug\net10.0-windows\Delegate String.exe
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\bin\Debug\net10.0-windows\Delegate String.deps.json
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\bin\Debug\net10.0-windows\Delegate String.runtimeconfig.json
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\bin\Debug\net10.0-windows\Delegate String.dll
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\bin\Debug\net10.0-windows\Delegate String.pdb
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.dll
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\refint\Delegate String.dll
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.pdb
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\Delegate String.genruntimeconfig.cache
+C:\Users\ASUS ROG\Downloads\Delegate String\Delegate String\obj\Debug\net10.0-windows\ref\Delegate String.dll
