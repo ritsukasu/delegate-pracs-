@@ -1,0 +1,6 @@
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.Form1.resources
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.CoreCompileInputs.cache
