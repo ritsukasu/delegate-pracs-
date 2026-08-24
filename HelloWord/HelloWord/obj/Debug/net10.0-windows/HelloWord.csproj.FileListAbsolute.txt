@@ -1,0 +1,16 @@
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\bin\Debug\net10.0-windows\HelloWord.exe
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\bin\Debug\net10.0-windows\HelloWord.deps.json
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\bin\Debug\net10.0-windows\HelloWord.runtimeconfig.json
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\bin\Debug\net10.0-windows\HelloWord.dll
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\bin\Debug\net10.0-windows\HelloWord.pdb
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.Form1.resources
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.AssemblyInfo.cs
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.dll
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\refint\HelloWord.dll
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.pdb
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\HelloWord.genruntimeconfig.cache
+C:\Users\ASUS ROG\Downloads\Tutorials\HelloWord\HelloWord\obj\Debug\net10.0-windows\ref\HelloWord.dll
