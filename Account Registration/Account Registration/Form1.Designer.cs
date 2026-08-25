@@ -28,210 +28,211 @@
         /// </summary>
         private void InitializeComponent()
         {
-            StudentNo = new Label();
-            label2 = new Label();
-            label3 = new Label();
-            label4 = new Label();
-            label5 = new Label();
-            label6 = new Label();
-            label7 = new Label();
-            label8 = new Label();
-            label9 = new Label();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
-            textBox7 = new TextBox();
-            richTextBox1 = new RichTextBox();
-            button1 = new Button();
+            lblStudentNo = new Label();
+            lblProgram = new Label();
+            lblLastName = new Label();
+            lblFirstName = new Label();
+            lblMiddleName = new Label();
+            lblAge = new Label();
+            lblContactNo = new Label();
+            lblSpacer = new Label();
+            lblAddress = new Label();
+            txtStudentNo = new TextBox();
+            txtLastName = new TextBox();
+            txtFirstName = new TextBox();
+            txtContactNo = new TextBox();
+            txtAge = new TextBox();
+            txtMiddleName = new TextBox();
+            rtbAddress = new RichTextBox();
+            btnNext = new Button();
             cbProgram = new ComboBox();
             SuspendLayout();
             // 
-            // StudentNo
+            // lblStudentNo
             // 
-            StudentNo.AutoSize = true;
-            StudentNo.Location = new Point(35, 28);
-            StudentNo.Name = "StudentNo";
-            StudentNo.Size = new Size(73, 15);
-            StudentNo.TabIndex = 0;
-            StudentNo.Text = "Student No.:";
-            StudentNo.Click += label1_Click;
+            lblStudentNo.AutoSize = true;
+            lblStudentNo.Location = new Point(35, 28);
+            lblStudentNo.Name = "lblStudentNo";
+            lblStudentNo.Size = new Size(73, 15);
+            lblStudentNo.TabIndex = 0;
+            lblStudentNo.Text = "Student No.:";
+            lblStudentNo.Click += lblStudentNo_Click;
             // 
-            // label2
+            // lblProgram
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(208, 28);
-            label2.Name = "label2";
-            label2.Size = new Size(53, 15);
-            label2.TabIndex = 1;
-            label2.Text = "Program";
-            label2.Click += label2_Click;
+            lblProgram.AutoSize = true;
+            lblProgram.Location = new Point(208, 28);
+            lblProgram.Name = "lblProgram";
+            lblProgram.Size = new Size(53, 15);
+            lblProgram.TabIndex = 1;
+            lblProgram.Text = "Program";
+            lblProgram.Click += lblProgram_Click;
             // 
-            // label3
+            // lblLastName
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(35, 93);
-            label3.Name = "label3";
-            label3.Size = new Size(63, 15);
-            label3.TabIndex = 2;
-            label3.Text = "Last Name";
+            lblLastName.AutoSize = true;
+            lblLastName.Location = new Point(35, 93);
+            lblLastName.Name = "lblLastName";
+            lblLastName.Size = new Size(63, 15);
+            lblLastName.TabIndex = 2;
+            lblLastName.Text = "Last Name";
             // 
-            // label4
+            // lblFirstName
             // 
-            label4.AutoSize = true;
-            label4.Location = new Point(208, 93);
-            label4.Name = "label4";
-            label4.Size = new Size(64, 15);
-            label4.TabIndex = 3;
-            label4.Text = "First Name";
+            lblFirstName.AutoSize = true;
+            lblFirstName.Location = new Point(208, 93);
+            lblFirstName.Name = "lblFirstName";
+            lblFirstName.Size = new Size(64, 15);
+            lblFirstName.TabIndex = 3;
+            lblFirstName.Text = "First Name";
             // 
-            // label5
+            // lblMiddleName
             // 
-            label5.AutoSize = true;
-            label5.Location = new Point(383, 93);
-            label5.Name = "label5";
-            label5.RightToLeft = RightToLeft.No;
-            label5.Size = new Size(79, 15);
-            label5.TabIndex = 4;
-            label5.Text = "Middle Name";
-            label5.Click += label5_Click;
+            lblMiddleName.AutoSize = true;
+            lblMiddleName.Location = new Point(383, 93);
+            lblMiddleName.Name = "lblMiddleName";
+            lblMiddleName.RightToLeft = RightToLeft.No;
+            lblMiddleName.Size = new Size(79, 15);
+            lblMiddleName.TabIndex = 4;
+            lblMiddleName.Text = "Middle Name";
+            lblMiddleName.Click += lblMiddleName_Click;
             // 
-            // label6
+            // lblAge
             // 
-            label6.AutoSize = true;
-            label6.Location = new Point(35, 149);
-            label6.Name = "label6";
-            label6.Size = new Size(28, 15);
-            label6.TabIndex = 5;
-            label6.Text = "Age";
-            label6.Click += label6_Click;
+            lblAge.AutoSize = true;
+            lblAge.Location = new Point(35, 149);
+            lblAge.Name = "lblAge";
+            lblAge.Size = new Size(31, 15);
+            lblAge.TabIndex = 5;
+            lblAge.Text = "Age:";
+            lblAge.Click += lblAge_Click;
             // 
-            // label7
+            // lblContactNo
             // 
-            label7.AutoSize = true;
-            label7.Location = new Point(208, 149);
-            label7.Name = "label7";
-            label7.Size = new Size(74, 15);
-            label7.TabIndex = 6;
-            label7.Text = "Contact No.:";
+            lblContactNo.AutoSize = true;
+            lblContactNo.Location = new Point(208, 149);
+            lblContactNo.Name = "lblContactNo";
+            lblContactNo.Size = new Size(74, 15);
+            lblContactNo.TabIndex = 6;
+            lblContactNo.Text = "Contact No.:";
             // 
-            // label8
+            // lblSpacer
             // 
-            label8.AutoSize = true;
-            label8.Location = new Point(427, 179);
-            label8.Name = "label8";
-            label8.Size = new Size(0, 15);
-            label8.TabIndex = 7;
+            lblSpacer.AutoSize = true;
+            lblSpacer.Location = new Point(427, 179);
+            lblSpacer.Name = "lblSpacer";
+            lblSpacer.Size = new Size(0, 15);
+            lblSpacer.TabIndex = 7;
             // 
-            // label9
+            // lblAddress
             // 
-            label9.AutoSize = true;
-            label9.Location = new Point(35, 217);
-            label9.Name = "label9";
-            label9.Size = new Size(49, 15);
-            label9.TabIndex = 8;
-            label9.Text = "Address";
+            lblAddress.AutoSize = true;
+            lblAddress.Location = new Point(35, 217);
+            lblAddress.Name = "lblAddress";
+            lblAddress.Size = new Size(49, 15);
+            lblAddress.TabIndex = 8;
+            lblAddress.Text = "Address";
             // 
-            // textBox2
+            // txtStudentNo
             // 
-            textBox2.Location = new Point(35, 54);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(160, 23);
-            textBox2.TabIndex = 9;
-            textBox2.TextChanged += textBox2_TextChanged;
+            txtStudentNo.Location = new Point(35, 54);
+            txtStudentNo.Name = "txtStudentNo";
+            txtStudentNo.Size = new Size(160, 23);
+            txtStudentNo.TabIndex = 9;
+            txtStudentNo.TextChanged += txtStudentNo_TextChanged;
             // 
-            // textBox3
+            // txtLastName
             // 
-            textBox3.Location = new Point(35, 111);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(160, 23);
-            textBox3.TabIndex = 11;
-            textBox3.TextChanged += textBox3_TextChanged;
+            txtLastName.Location = new Point(35, 111);
+            txtLastName.Name = "txtLastName";
+            txtLastName.Size = new Size(160, 23);
+            txtLastName.TabIndex = 11;
+            txtLastName.TextChanged += txtLastName_TextChanged;
             // 
-            // textBox4
+            // txtFirstName
             // 
-            textBox4.Location = new Point(208, 111);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(160, 23);
-            textBox4.TabIndex = 13;
-            textBox4.TextChanged += textBox4_TextChanged;
+            txtFirstName.Location = new Point(208, 111);
+            txtFirstName.Name = "txtFirstName";
+            txtFirstName.Size = new Size(160, 23);
+            txtFirstName.TabIndex = 13;
+            txtFirstName.TextChanged += txtFirstName_TextChanged;
             // 
-            // textBox5
+            // txtContactNo
             // 
-            textBox5.Location = new Point(208, 171);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(160, 23);
-            textBox5.TabIndex = 14;
-            textBox5.TextChanged += textBox5_TextChanged;
+            txtContactNo.Location = new Point(208, 171);
+            txtContactNo.Name = "txtContactNo";
+            txtContactNo.Size = new Size(160, 23);
+            txtContactNo.TabIndex = 14;
+            txtContactNo.TextChanged += txtContactNo_TextChanged;
             // 
-            // textBox6
+            // txtAge
             // 
-            textBox6.Location = new Point(35, 171);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(160, 23);
-            textBox6.TabIndex = 15;
-            textBox6.TextChanged += textBox6_TextChanged;
+            txtAge.Location = new Point(35, 171);
+            txtAge.Name = "txtAge";
+            txtAge.Size = new Size(160, 23);
+            txtAge.TabIndex = 15;
+            txtAge.TextChanged += txtAge_TextChanged;
             // 
-            // textBox7
+            // txtMiddleName
             // 
-            textBox7.Location = new Point(383, 111);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(160, 23);
-            textBox7.TabIndex = 16;
-            textBox7.TextChanged += textBox7_TextChanged;
+            txtMiddleName.Location = new Point(383, 111);
+            txtMiddleName.Name = "txtMiddleName";
+            txtMiddleName.Size = new Size(160, 23);
+            txtMiddleName.TabIndex = 16;
+            txtMiddleName.TextChanged += txtMiddleName_TextChanged;
             // 
-            // richTextBox1
+            // rtbAddress
             // 
-            richTextBox1.Location = new Point(35, 235);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(508, 181);
-            richTextBox1.TabIndex = 18;
-            richTextBox1.Text = "";
+            rtbAddress.Location = new Point(35, 235);
+            rtbAddress.Name = "rtbAddress";
+            rtbAddress.Size = new Size(594, 117);
+            rtbAddress.TabIndex = 18;
+            rtbAddress.Text = "";
             // 
-            // button1
+            // btnNext
             // 
-            button1.Location = new Point(261, 433);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 19;
-            button1.Text = "Next";
-            button1.TextAlign = ContentAlignment.BottomCenter;
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnNext.Location = new Point(293, 358);
+            btnNext.Name = "btnNext";
+            btnNext.Size = new Size(75, 23);
+            btnNext.TabIndex = 19;
+            btnNext.Text = "Next";
+            btnNext.TextAlign = ContentAlignment.BottomCenter;
+            btnNext.UseVisualStyleBackColor = true;
+            btnNext.Click += btnNext_Click;
             // 
             // cbProgram
             // 
             cbProgram.FormattingEnabled = true;
+            cbProgram.Items.AddRange(new object[] { "Bachelor of Science in Information Technology (BSIT)", "Bachelor of Science in Computer Science (BSCS)", "BS in Civil Engineering (BSCE)", "BS in Mechanical Engineering (BSME)", "BS in Electrical Engineering (BSEE)", "BS in Accountancy (BSA)", "BS in Management Accounting (BSMA)", "BS in Business Administration (Financial/Marketing Management)", "BS in Hospitality Management (BSHM)", "BS in Tourism Management (BSTM)", "BS in Elementary Education (BEEd)", "BS in Secondary Education (BSEd)", "BS in Physical Education (BPEd)", "BS in Early Childhood Education (BECEd)", "BS in Special Needs Education (BSNEd)", "Bachelor of Arts in Communication (BA Comm)", "Bachelor of Arts in English Language (BAEL)", "BS in Psychology (BS Psych)", "BS in Mathematics (BS Math)", "BS in Criminology (BS Crim)" });
             cbProgram.Location = new Point(208, 54);
             cbProgram.Name = "cbProgram";
-            cbProgram.Size = new Size(160, 23);
+            cbProgram.Size = new Size(421, 23);
             cbProgram.TabIndex = 20;
-            cbProgram.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
+            cbProgram.SelectedIndexChanged += cbProgram_SelectedIndexChanged;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(573, 482);
+            ClientSize = new Size(653, 413);
             Controls.Add(cbProgram);
-            Controls.Add(button1);
-            Controls.Add(richTextBox1);
-            Controls.Add(textBox7);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(label9);
-            Controls.Add(label8);
-            Controls.Add(label7);
-            Controls.Add(label6);
-            Controls.Add(label5);
-            Controls.Add(label4);
-            Controls.Add(label3);
-            Controls.Add(label2);
-            Controls.Add(StudentNo);
+            Controls.Add(btnNext);
+            Controls.Add(rtbAddress);
+            Controls.Add(txtMiddleName);
+            Controls.Add(txtAge);
+            Controls.Add(txtContactNo);
+            Controls.Add(txtFirstName);
+            Controls.Add(txtLastName);
+            Controls.Add(txtStudentNo);
+            Controls.Add(lblAddress);
+            Controls.Add(lblSpacer);
+            Controls.Add(lblContactNo);
+            Controls.Add(lblAge);
+            Controls.Add(lblMiddleName);
+            Controls.Add(lblFirstName);
+            Controls.Add(lblLastName);
+            Controls.Add(lblProgram);
+            Controls.Add(lblStudentNo);
             Name = "Form1";
             Text = "FrmRegistration";
             Load += Form1_Load;
@@ -241,23 +242,23 @@
 
         #endregion
 
-        private Label StudentNo;
-        private Label label2;
-        private Label label3;
-        private Label label4;
-        private Label label5;
-        private Label label6;
-        private Label label7;
-        private Label label8;
-        private Label label9;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private TextBox textBox5;
-        private TextBox textBox6;
-        private TextBox textBox7;
-        private RichTextBox richTextBox1;
-        private Button button1;
+        private Label lblStudentNo;
+        private Label lblProgram;
+        private Label lblLastName;
+        private Label lblFirstName;
+        private Label lblMiddleName;
+        private Label lblAge;
+        private Label lblContactNo;
+        private Label lblSpacer;
+        private Label lblAddress;
+        private TextBox txtStudentNo;
+        private TextBox txtLastName;
+        private TextBox txtFirstName;
+        private TextBox txtContactNo;
+        private TextBox txtAge;
+        private TextBox txtMiddleName;
+        private RichTextBox rtbAddress;
+        private Button btnNext;
         private ComboBox cbProgram;
     }
 }

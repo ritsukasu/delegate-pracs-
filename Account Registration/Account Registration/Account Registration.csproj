@@ -9,8 +9,4 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\23-4495-389\Downloads\Account Registration.cs" Link="Account Registration.cs" />
-  </ItemGroup>
-
 </Project>
