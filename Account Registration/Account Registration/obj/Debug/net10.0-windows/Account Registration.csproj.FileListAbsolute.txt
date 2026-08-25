@@ -1,0 +1,40 @@
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.Form1.resources
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\23-4495-389\source\repos\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.Form1.resources
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.FrmConfirm.resources
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.exe
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.deps.json
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.runtimeconfig.json
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.pdb
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\refint\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.pdb
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.genruntimeconfig.cache
+C:\Users\ASUS ROG\Downloads\Account Registration\Account Registration\obj\Debug\net10.0-windows\ref\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.exe
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.deps.json
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.runtimeconfig.json
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\bin\Debug\net10.0-windows\Account Registration.pdb
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.Form1.resources
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account_Registration.FrmConfirm.resources
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.GenerateResource.cache
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfoInputs.cache
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.AssemblyInfo.cs
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\refint\Account Registration.dll
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.pdb
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\Account Registration.genruntimeconfig.cache
+C:\Users\ASUS ROG\Downloads\Inug pasa bwas kay Sir\Account Registration\Account Registration\obj\Debug\net10.0-windows\ref\Account Registration.dll
