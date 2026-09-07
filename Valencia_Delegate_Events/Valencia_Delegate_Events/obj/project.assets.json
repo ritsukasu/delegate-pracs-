@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS ROG\\Downloads\\Inug pasa bwas kay Sir\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\Valencia_Delegate_Events.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS ROG\\Downloads\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\Valencia_Delegate_Events.csproj",
       "projectName": "Valencia_Delegate_Events",
-      "projectPath": "C:\\Users\\ASUS ROG\\Downloads\\Inug pasa bwas kay Sir\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\Valencia_Delegate_Events.csproj",
+      "projectPath": "C:\\Users\\ASUS ROG\\Downloads\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\Valencia_Delegate_Events.csproj",
       "packagesPath": "C:\\Users\\ASUS ROG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS ROG\\Downloads\\Inug pasa bwas kay Sir\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\obj\\",
+      "outputPath": "C:\\Users\\ASUS ROG\\Downloads\\Valencia_Delegate_Events\\Valencia_Delegate_Events\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS ROG\\AppData\\Roaming\\NuGet\\NuGet.Config",

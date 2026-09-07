@@ -107,7 +107,7 @@
             Controls.Add(lblNum1);
             FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Form1";
-            Text = "Calculator";
+            Text = "Calculator app";
             ResumeLayout(false);
             PerformLayout();
         }
